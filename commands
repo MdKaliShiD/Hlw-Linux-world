@@ -1,0 +1,5 @@
+To go to your home directory, type just "cd" 
+To list the files and folders in your current directory, type "ls"
+To go into one of your listed directories, type " cd your_listed_directory"
+To go up one directory, type cd ...
+ 
